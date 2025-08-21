@@ -27,7 +27,7 @@ Desarrolladora full-stack especializada en crear aplicaciones web completas con 
 
 ## 🚀 Proyectos Destacados
 
-🏪 **E-commerce Boutique** - React, Node.js, MongoDB  🚧 En desarrollo 🚧
+🏪 **E-commerce Boutique** - React, Node.js, MongoDB  🚧 En desarrollo 🚧  
 📊 **Dashboard Fintech** - React, FastAPI, PostgreSQL  
 🏨 **Sistema de Reservas** - Next.js, Django, PostgreSQL  
 📰 **CMS Blog Corporativo** - React, Django, MySQL  
@@ -46,4 +46,5 @@ Desarrolladora full-stack especializada en crear aplicaciones web completas con 
 ---
 
 ✨ **Transformando ideas en experiencias digitales excepcionales**
+
 
