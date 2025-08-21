@@ -1,9 +1,9 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Paola 
 
 ### Desarrollador Web y App Multiplataforma | Especialista en Ciberseguridad
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-usuario" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/paolarubel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-usuario" height="30" width="40" /></a>
   <a href="https://twitter.com/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tu-usuario" height="30" width="40" /></a>
 </p>
 
@@ -41,4 +41,5 @@ Soy un desarrollador enfocado en crear aplicaciones robustas y seguras. Mi pasi�
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de tu-usuario" />
+
 </p>
