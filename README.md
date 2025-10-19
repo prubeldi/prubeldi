@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Paola
 
-### Desarrolladora Full-Stack | Especialista en Aplicaciones Web
+### Desarrolladora Full-Stack | Especialista en Ciberseguridad Compliance
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paolarubel/" target="blank">
@@ -46,5 +46,6 @@ Desarrolladora full-stack especializada en crear aplicaciones web completas con 
 ---
 
 ✨ **Transformando ideas en experiencias digitales excepcionales**
+
 
 
